@@ -1,6 +1,5 @@
 # DuckDB
 
-[DuckDB](https://duckdb.org/) is an in-process SQL OLAP database management system
 
 ## Presentation
 
@@ -10,9 +9,10 @@ You can find the video presentation [here](https://www.youtube.com/watch?v=nPDom
 
 ## Summary of support files
 
--
--
+- `demo.ipynb`: the notebook containing this tutorial code
+- `test.csv`: a small file containing flight data used in the tutorial code
 
 ## Guide
 
-TBD
+[DuckDB](https://duckdb.org/) is an in-process SQL OLAP database management system
+
