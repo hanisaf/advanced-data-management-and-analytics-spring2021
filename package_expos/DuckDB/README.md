@@ -16,3 +16,5 @@ You can find the video presentation [here](https://www.youtube.com/watch?v=nPDom
 
 [DuckDB](https://duckdb.org/) is an in-process SQL OLAP database management system
 
+(more info here)
+
