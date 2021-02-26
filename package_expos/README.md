@@ -11,4 +11,5 @@
 - Group 24: Pygame
 - Group 29: plotly
 - Group 52: numpy
+- Group 05: Bokeh
 - Group XX : Package xyz
