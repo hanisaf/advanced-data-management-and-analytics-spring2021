@@ -13,4 +13,5 @@
 - Group 52: numpy
 - Group 05: Bokeh
 - Group 14: TensorFlow
+- Group 27: QuantEcon
 - Group XX : Package xyz
