@@ -14,4 +14,5 @@
 - Group 05: Bokeh
 - Group 14: TensorFlow
 - Group 27: QuantEcon
+- Group 38: PyBrain
 - Group XX : Package xyz
