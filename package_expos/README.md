@@ -15,4 +15,10 @@
 - Group 14: TensorFlow
 - Group 27: QuantEcon
 - Group 38: PyBrain
+- Group 20: Pytest
+- Group 36: Streamlit
+- Group 34: Prohpet
+- Group 01: Selenium
+- Group 15: Theano
+- Group 18: NLTK
 - Group XX : Package xyz
