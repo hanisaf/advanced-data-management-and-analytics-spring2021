@@ -21,4 +21,5 @@
 - Group 01: Selenium
 - Group 15: Theano
 - Group 18: NLTK
+- Group 31: scrapy
 - Group XX : Package xyz
