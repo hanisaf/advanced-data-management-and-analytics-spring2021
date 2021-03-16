@@ -22,4 +22,6 @@
 - Group 15: Theano
 - Group 18: NLTK
 - Group 31: scrapy
+- Group 37: MechanicalSoup
+- Group 25: Arrow
 - Group XX : Package xyz
