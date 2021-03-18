@@ -24,4 +24,7 @@
 - Group 31: scrapy
 - Group 37: MechanicalSoup
 - Group 25: Arrow
+- Group 28: pendulum
+- Group 11: gym
+- Group 06: wikipedia
 - Group XX : Package xyz
