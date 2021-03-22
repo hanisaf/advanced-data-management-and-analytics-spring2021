@@ -27,4 +27,5 @@
 - Group 28: pendulum
 - Group 11: gym
 - Group 06: wikipedia
+- Group 02: scapy
 - Group XX : Package xyz
