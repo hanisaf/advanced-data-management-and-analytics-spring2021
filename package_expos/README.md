@@ -12,6 +12,7 @@
 - Group 12: matplotlib
 - Group 14: TensorFlow
 - Group 15: Theano
+- Group 16: holoviews
 - Group 17: Seaborn
 - Group 18: NLTK
 - Group 20: Pytest
