@@ -27,5 +27,6 @@
 - Group 37: MechanicalSoup
 - Group 38: PyBrain
 - Group 40: PyTorch
+- Group 44: Tweepy
 - Group 52: numpy
 - Group XX : Package xyz
