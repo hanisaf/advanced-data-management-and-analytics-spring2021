@@ -6,6 +6,7 @@
 - Group 04: Pillow
 - Group 05: Bokeh
 - Group 06: wikipedia
+- Group 07: nfldb
 - Group 10: numpy
 - Group 11: gym
 - Group 12: matplotlib
