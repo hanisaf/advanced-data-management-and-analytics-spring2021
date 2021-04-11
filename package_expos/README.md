@@ -16,6 +16,7 @@
 - Group 17: Seaborn
 - Group 18: NLTK
 - Group 20: Pytest
+- Group 21: Pygal
 - Group 22: statsmodels
 - Group 24: Pygame
 - Group 25: Arrow
