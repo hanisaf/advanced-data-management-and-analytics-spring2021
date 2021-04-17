@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="GENERAL HUX"/>
+<node id="KYLO REN"/>
+<node id="REY"/>
+<node id="FINN"/>
+<node id="POE"/>
+<node id="HAN"/>
+<node id="MAZ"/>
+<node id="LEIA"/>
+<node id="C-3PO"/>
+<edge source="GENERAL HUX" target="KYLO REN"/>
+<edge source="KYLO REN" target="REY"/>
+<edge source="REY" target="FINN"/>
+<edge source="REY" target="HAN"/>
+<edge source="FINN" target="POE"/>
+<edge source="FINN" target="HAN"/>
+<edge source="HAN" target="MAZ"/>
+<edge source="HAN" target="LEIA"/>
+<edge source="LEIA" target="C-3PO"/>
+</graph></graphml>
