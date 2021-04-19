@@ -27,6 +27,7 @@
 - Group 29: plotly
 - Group 31: scrapy
 - Group 34: Prohpet
+- Group 35: PyQt5
 - Group 36: Streamlit
 - Group 37: MechanicalSoup
 - Group 38: PyBrain
