@@ -25,6 +25,7 @@
 - Group 27: QuantEcon
 - Group 28: pendulum
 - Group 29: plotly
+- Group 30: graph-tool
 - Group 31: scrapy
 - Group 34: Prohpet
 - Group 35: PyQt5
