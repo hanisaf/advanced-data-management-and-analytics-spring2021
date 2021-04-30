@@ -2,7 +2,7 @@
 
 - Sample expo: DuckDB
 - Group 01: Selenium
-- Group 02: scapy
+- Group 02: quandl
 - Group 04: Pillow
 - Group 05: Bokeh
 - Group 06: wikipedia
@@ -19,6 +19,7 @@
 - Group 20: Pytest
 - Group 21: Pygal
 - Group 22: statsmodels
+- Group 23: flashtext
 - Group 24: Pygame
 - Group 25: Arrow
 - Group 26: Docutils
