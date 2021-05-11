@@ -1,0 +1,56 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 #!pip install PyQt5\
+from PyQt5 import QtWidgets\
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QMainWindow\
+import sys\
+\
+\
+#Example 1 Basic Window\
+app = QApplication([])\
+window = QWidget()\
+layout = QVBoxLayout()\
+layout.addWidget(QPushButton('My Button'))\
+window.setLayout(layout)\
+window.show()\
+app.exec()\
+\
+\
+#Example 2 more in depth window with interactive button\
+class MyWindow(QMainWindow):\
+    def __init__(self):\
+        super(MyWindow, self).__init__()\
+        self.setGeometry(200, 200, 300, 300)   #set xposition, yposition, width, height\
+        self.setWindowTitle("My Window")\
+        self.initUI()\
+        \
+    def initUI(self):\
+        self.label = QtWidgets.QLabel(self)\
+        self.label.setText("this is the label")\
+        self.label.move(100,50)\
+        \
+        self.b1 = QtWidgets.QPushButton(self)\
+        self.b1.setText("Click Me")\
+        self.b1.clicked.connect(self.clicked)\
+        \
+    def clicked(self):\
+        self.label.setText('you pressed the button')\
+        self.update()\
+        \
+    def update(self):\
+        self.label.adjustSize()\
+\
+\
+\
+def window():\
+    app = QApplication(sys.argv) #gives system information \
+    win = MyWindow()             #sets up a window\
+    win.show()\
+    sys.exit(app.exec_())\
+    \
+window()}
